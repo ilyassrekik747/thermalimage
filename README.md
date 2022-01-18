@@ -1,1 +1,1 @@
-# ThermalImage
+# Thermalimage
